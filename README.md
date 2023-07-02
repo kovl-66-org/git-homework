@@ -1,2 +1,2 @@
 # git-homework
-more text
+edit text in file readme
